@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevenbruns.
 - 👀 I’m interested in react, vue, laravel and python.
-- 🌱 I’m currently developing react frontend.
+- 🌱 I’m currently developing a react frontend.
 - 💞️ I’m looking to collaborate on any projects you need a help.
 - 📫 Let's work together!
 
